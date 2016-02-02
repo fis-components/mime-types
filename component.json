@@ -1,0 +1,11 @@
+{
+    "name": "mime-types",
+    "description": "The ultimate javascript content-type utility.",
+    "repos": "https://github.com/jshttp/mime-types",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "mime-db": "~1.14.0"
+    },
+    "version": "2.1.2"
+}
